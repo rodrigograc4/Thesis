@@ -1,4 +1,4 @@
-# Generative AI for Story Co-Creation in the Polariscope Platform
+# IA generativa na cocriação de histórias para o enriquecimento da plataforma Polariscope
 
 MSc Dissertation — University of Aveiro, DeCA
 
