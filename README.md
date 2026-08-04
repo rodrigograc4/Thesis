@@ -1,6 +1,6 @@
 # IA generativa na cocriação de histórias para o enriquecimento da plataforma Polariscope
 
-MSc Dissertation — University of Aveiro, DeCA
+MSc Thesis — University of Aveiro, DeCA
 
 > **Final Grade:** 19 / 20
 
@@ -9,7 +9,7 @@ MSc Dissertation — University of Aveiro, DeCA
 
 ## Abstract
 
-This dissertation addresses the cognitive and creative barriers often associated with digital storytelling in collective memory platforms, specifically the high effort and time required from users to build complete narratives. To mitigate these challenges, this work proposes, implements, and evaluates **PolarisAI**, a multimodal, non-intrusive intelligent assistant integrated directly into the **Polariscope** platform.
+This thesis addresses the cognitive and creative barriers often associated with digital storytelling in collective memory platforms, specifically the high effort and time required from users to build complete narratives. To mitigate these challenges, this work proposes, implements, and evaluates **PolarisAI**, a multimodal, non-intrusive intelligent assistant integrated directly into the **Polariscope** platform.
 
 The assistant acts as a collaborative co-author during story writing and media curation. Developed following a **Design-Based Research (DBR)** methodology, PolarisAI incorporates dynamic creative control parameters (AI Modes) through a custom temperature-control architecture, contextual data injection, and automated metadata generation for multimedia archives.
 
